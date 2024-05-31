@@ -73,3 +73,7 @@ Maximum Adult mortality mean over the years by each country occurs in Zimbabwe
 Belarus has the highest Alcohol consmption
 
 All the factors given aid to the Life expectancy of a country in some way based on the data in correlation, also gives an overview of the health conditions in each country based on financial status of the country, Adult Mortality, infant deatha and various other factors. The Exploratory data analysis for the given data of Life expectancy analytics is performed along with fitting the data into suitable regression models to predict desired outputs.
+
+#### References
+1. Rajarshi, K. (2017). Life Expectancy (WHO). Www.kaggle.com. https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+‌
